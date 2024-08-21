@@ -2,20 +2,10 @@
 
 ![prototype_image](assets/prototype_image.jpg)
 
-## Team: Tech Turtles
-
-### Team Members:
-- [Ziyad El-Fayoumy](https://github.com/Zoz-HF)
-- [Amagd Atef](https://github.com/amg-eng)
-- [Mahmoud Mohamed](https://github.com/Mahmoudm007)
-- [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)
-- [Abdelrahman Shawky](https://github.com/AbdulrahmanGhitani)
-- [OmarAbdelnasser](https://github.com/omarshaban02)
-- [Camellia Marwan](https://github.com/camelliamarwan)
-
 ## Project Overview:
 
-![Topview](assets/upper%20view%202.png)
+![Prototype](https://github.com/user-attachments/assets/581ad32b-26da-413c-9d70-cfd2d2d791cd)
+
 This project involves the development of a prototype for the ADVIA 1800, a crucial piece of medical equipment used for high-throughput clinical chemistry analysis. The prototype is designed and built as part of the Medical Equipment 2 course, under the supervision of Dr. Eman Ayman, in collaboration with Siemens Healthineers.
 
 ### Key Features of Our ADVIA 1800 Prototype:
@@ -55,9 +45,18 @@ This project involves the development of a prototype for the ADVIA 1800, a cruci
      - Display of concentration results on an LCD screen.
 
 ## Troubleshooting:
-- If you encounter any errors or issues during setup or usage, refer to the provided error codes and check the hardware connections.
+- Refer to the provided error codes and check the hardware connections if you encounter any errors or issues during setup or usage.
 - Ensure that the sensors are calibrated and functioning correctly.
 
 ## Acknowledgments:
-- We extend our gratitude to Dr. Eman Ayman for her guidance and support throughout this project.
+- We thank Dr. Eman Ayman for her guidance and support throughout this project.
 - Special thanks to Siemens Healthineers for their supervision of our project.
+
+### Team Members:
+- [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)
+- [Ziyad El-Fayoumy](https://github.com/Zoz-HF)
+- [Amagd Atef](https://github.com/amg-eng)
+- [Mahmoud Mohamed](https://github.com/Mahmoudm007)
+- [Abdelrahman Shawky](https://github.com/AbdulrahmanGhitani)
+- [OmarAbdelnasser](https://github.com/omarshaban02)
+- [Camellia Marwan](https://github.com/camelliamarwan)
